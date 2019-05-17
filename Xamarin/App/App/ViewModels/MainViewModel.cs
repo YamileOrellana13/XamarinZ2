@@ -1,4 +1,6 @@
-﻿namespace App.ViewModels
+﻿// Aqui Hacemos todo lo que se muestra es decir como quiere que se vea mi pantalla
+
+namespace App.ViewModels
 {
     //using Models;
     using System;

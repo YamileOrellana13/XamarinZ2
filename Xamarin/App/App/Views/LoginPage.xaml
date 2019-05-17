@@ -26,6 +26,7 @@
                         Text="E-mail:"
                         TextColor="Black">
                     </Label>
+                    
                     <Entry
                         Grid.Row="0"
                         Grid.Column="1"
